@@ -36,7 +36,7 @@ Tout ceci est bien, mais comment quantifier l'impact de la météo? Pour éviter
 - garder seulement les pluies plus longues que 1h
 - étaler la pluie 2H avant et 2H après la mesure à Montsouris
 
-Lorsqu'on met tout cela dans un modèle multivarié, avec interactions entre les heures de la journée, le week-end, et même le mois d'août semi-gratuit, on arrive assez bien à prédire la cagnotte:
+Lorsqu'on met tout cela dans un modèle multivarié, avec interactions entre les heures de la journée, le week-end, et même le mois d'août semi-gratuit, on arrive assez bien à prédire la cagnotte (image), et l'influence de la pluie est proportionnelle à la charge et varie entre 10 et 60 transactions en moins par heure.
 
 ![](modele_vs_reel.png)
 
